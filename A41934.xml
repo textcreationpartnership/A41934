@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from the Old-Bayly Mr. Car's recantation, or, The True Protestant renegade, the coutantier turn'd Tory / in a dialgoue 'twixt Trueman and Amsterdammer.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41934</idno>
+            <idno type="STC">Wing G1736</idno>
+            <idno type="STC">ESTC R36578</idno>
+            <idno type="EEBO-CITATION">15735030</idno>
+            <idno type="OCLC">ocm 15735030</idno>
+            <idno type="VID">104556</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41934)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104556)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1593:51)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from the Old-Bayly Mr. Car's recantation, or, The True Protestant renegade, the coutantier turn'd Tory / in a dialgoue 'twixt Trueman and Amsterdammer.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Care, Henry, 1646-1688.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104556:1" rendition="simple:additions"/>
+            <head>GREAT NEWS FROM THE OLD-BAYLY, Mr. Car's Recantation. OR, <hi>The True</hi> Proteſtant <hi>Renegade, the Courantier turn'd</hi> Tory; <hi>in a Dialogue 'twixt</hi> True<g ref="char:EOLhyphen"/>man, <hi>and</hi> Amſterdammer.</head>
+            <q>Tempora Mutantur <hi>&amp;c.</hi>
+            </q>
+            <sp>
+               <speaker>Amſt.</speaker>
+               <p>SO, that 'tis very true?</p>
+            </sp>
+            <sp>
+               <speaker>True.</speaker>
+               <p>Yes, certainly true, <hi>Harry</hi> has drap't his <hi>Whiggiſh</hi> Teeth and claws, caſt his Skin, and has been new melted, and run into <hi>Tory</hi> Mould.</p>
+            </sp>
+            <sp>
+               <speaker>Amſt.</speaker>
+               <p>A brave true Proteſtant ſpark with all my Heart.</p>
+            </sp>
+            <sp>
+               <speaker>True.</speaker>
+               <p>Nay he has quite caſhier'd all the Rabbi's of the Faction, Damns his Patrons, Raves like a Mad-man, and diſclaims out<g ref="char:EOLhyphen"/>ragiouſly againſt the late Horrid contrivance againſt the KING and DUKE, curſes all the Diſſenters for their blundering Treaſons; I tell thee that he is a rank, overgrown <hi>Tory.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Amſt.</speaker>
+               <p>Alack and alaſs aday, what! Our hiſtorical Courantier begin to be <hi>Toryfied? ſperamus meliora.</hi> Sure the <hi>Devill</hi>'s in the Folk by way of recantation. Pox on'm, muſt a little Perſecution, alter good ſolid Republican principles? A little Hanging Drawing, and Quartering, and unmerci<g ref="char:EOLhyphen"/>ful butcherly chopping off of Heads terrifie our gigantic Scribler, our <hi>Fryday Atlas</hi> of Fanaticiſm? If it do, farewel our towring expections. But hang't, I can't beleive thee upon my Soul, <hi>Trueman.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>True.</speaker>
+               <p>Confound your incredulity! What reaſon have you to diſtruſt the reality of his converſion? Is <hi>Harry Care</hi> ſuch a ſul<g ref="char:EOLhyphen"/>len, obſtinate piece of <hi>Whiggiſm,</hi> ſuch a ſturdy Poliſh Oak, to break rather then bow? Don't be miſtaken. Self preſerva<g ref="char:EOLhyphen"/>tion is a principle founded in us by nature, and if a man does not follow thoſe di<g ref="char:EOLhyphen"/>ctates, he may be <hi>Felo de ſe,</hi> and then he may be deny'd the benefit of his <hi>Clergy.</hi> No no, <hi>Harry</hi>'s a better Politician, than ſo. Upon the word of an honeſt Gentleman, <hi>Harry</hi>'s turn'd a violent Anti-Republican, and rails deſperately againſt this late Fa<g ref="char:EOLhyphen"/>natical Conſpiracy.</p>
+            </sp>
+            <sp>
+               <speaker>Amſt.</speaker>
+               <p>Well! don't be angry if I ſpeak a blunt word, and pronounce it a damn'd lye. What <hi>Harry</hi> rail at <hi>PLOTS?</hi> It can't be. If any man or woman, of what Size, Age or complexion, ſpeaks more fa<g ref="char:EOLhyphen"/>vourably of this matter, puts kinder in<g ref="char:EOLhyphen"/>ter pretations on it, and more ſlyly invali<g ref="char:EOLhyphen"/>dates its Authority than himſelf, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen you'l probably convince me of ſomewhat.</p>
+            </sp>
+            <sp>
+               <speaker>True.</speaker>
+               <p>Why, hark ye Mr. Theſe are but, your own ſentiments. Pray does he not cry? <hi>Fiat juſtitia,</hi> wipes his hands in Inno<g ref="char:EOLhyphen"/>cency, thanks God that he is neither Plot<g ref="char:EOLhyphen"/>ter, nor Traytor, and bleſſes the Almighty for the happy deliverance from both thoſe dreadful characters.</p>
+            </sp>
+            <sp>
+               <speaker>Amſt.</speaker>
+               <p>Yes! he thanks God that he is free himſelf (and I wiſh it may prove ſo) Why, there's not one paſſionate reſentment, or reall abhorrence of the thing, not one Thankſgiving word for his Majeſties e<g ref="char:EOLhyphen"/>ſcape from that impendent Miſchief, that threatn'd him. No, no; he's as ſilent as Mouſe in a loaf upon that <hi>topique.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>True.</speaker>
+               <p>Prithee, don't think he'l leap over Hedges, and Dicthes and run upon extra<g ref="char:EOLhyphen"/>vagancy's he'l do all things mildly.</p>
+            </sp>
+            <sp>
+               <speaker>Amſt.</speaker>
+               <p>He has been a mild fellow indeed, why if he be ſuch a zealous <hi>pimping</hi> Pro<g ref="char:EOLhyphen"/>ſelyte, as you talk, he'd certainly uſe his talent of raillery another way, and damn all his former proceedings.</p>
+            </sp>
+            <sp>
+               <speaker>True.</speaker>
+               <p>That would be a piece of impru<g ref="char:EOLhyphen"/>dence yet.</p>
+            </sp>
+            <sp>
+               <speaker>Amſt.</speaker>
+               <p>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and a piece of Ingratitude into the bargain, the little ſneaking Chitterling has been well pay'd for his weekly endea<g ref="char:EOLhyphen"/>vours in the <hi>Cauſe,</hi> and he's a cowardly, In<g ref="char:EOLhyphen"/>digent fellow if he forſakes it.</p>
+            </sp>
+            <sp>
+               <speaker>True.</speaker>
+               <p>No the <hi>Cauſe</hi> forſakes him, his Pa<g ref="char:EOLhyphen"/>tron at <hi>Alderſgate</hi> and his <hi>Bloomsbury</hi> Bene<g ref="char:EOLhyphen"/>factor
+<pb facs="tcp:104556:2" rendition="simple:additions"/>are gone; and all the reſt of the Wor<g ref="char:EOLhyphen"/>thy Patriots are like to ſwing, or be chopt off, and then what ſhall this Sollicitor Gene<g ref="char:EOLhyphen"/>ral, this Whiffler of a Courantier do to ſup<g ref="char:EOLhyphen"/>port his Rat-like Carkaſs?</p>
+            </sp>
+            <sp>
+               <speaker>Amſt.</speaker>
+               <p>He may like <hi>Judas</hi> een' go and hang himſelf, for if he draws back, our Souls ſhall take no delight in him. The Puppy Monkey Face may do well enough yet had he his antient vigour, and reſoluti<g ref="char:EOLhyphen"/>on; wou'd he make uſe of down right blunt abuſes (under the notions of Raillery) and conſult <hi>Billingagate; Harry</hi>'s Pen, and the womens Oyſter ſpuds might prove two dangerous weapons yet.</p>
+            </sp>
+            <sp>
+               <speaker>True.</speaker>
+               <p>So, I ſee what you'd be at; you'd have him run the riſque of the Gallows, write a no Proteſtant Plot, a <hi>3d</hi> part of the Growth of Popery; you'd have him (I warrant ye) caſt the odium of it on the <hi>Crape-Gownorum</hi> men (as his arch wit call's them) and fix the ſcandal on the Church.</p>
+            </sp>
+            <sp>
+               <speaker>Amſt.</speaker>
+               <p>Why, to ſpeak freely to you, A little true Proteſtant Syrrup (juſt upon the nick of my Lord Ruſſell's Speech) will ſupport the Spirits of the languiſhing party. There be thouſands that won't be<g ref="char:EOLhyphen"/>lieve it; Ah! my Lord's Speech make's them groan louder then the Groaning-board it ſelf. This dreadful apprehenſion of Po<g ref="char:EOLhyphen"/>pery encourag'd, wou'd do mighty things yet; the people are not ſo dejected as ſome imagine, the party is Numerous, and powerful.</p>
+            </sp>
+            <sp>
+               <speaker>True.</speaker>
+               <p>Very likely, but <hi>Harry</hi> has eyes in's Head, and diſcovers the viſible hand of Providence in defeating their accurſed pro<g ref="char:EOLhyphen"/>jects. Notwithſtanding his former miſear<g ref="char:EOLhyphen"/>riages, he's reſolv'd to hearken to con<g ref="char:EOLhyphen"/>ſcience at laſt, and (with Mr. <hi>Settle</hi>) think it no diſparagement to be honeſt af<g ref="char:EOLhyphen"/>ter all.</p>
+            </sp>
+            <sp>
+               <speaker>Amſt.</speaker>
+               <p>Good God! from whence ſhou'd this ſqueamiſhneſs proceed? <hi>Harry</hi> a fellow (whom all the World thought an Atheiſt, and ſome thing worſe if poſſible) boggle now at Conſcience? Why, how often has he boldly check't the <hi>King</hi> and his Counſel? How often has he magnify'd the Ignoramus men, and call'd the men at the Loyal Feaſt, Dukes and Earls, <hi>&amp;c.</hi> A parcel of beggarly fellows, whoſe Teeth water'd at a piece of Veniſon? How often has he call'd the Orthodox Clergy Papiſts maſque<g ref="char:EOLhyphen"/>radors? How often has he pleaded the Cauſe of the Conventiclers? In ſhort, what was it, that <hi>Harry</hi>'s uncontroulable Pen dar'd not to undertake, and now talk of Conſcience? O <hi>Tempora!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>True.</speaker>
+               <p>Here's a recapitulation of all <hi>Har<g ref="char:EOLhyphen"/>ry</hi>'s excellency's with a vengeance. Why, what's this to the purpoſe? Is't a moral im<g ref="char:EOLhyphen"/>poſſibility do you think, for a thumping knave to be honeſt at long run? there's ano<g ref="char:EOLhyphen"/>ther converſion, I muſt tell yee, than that of the Gallows. <hi>Harry</hi>'s honeſty proceeds from his own choice, not out of a principel of fear.</p>
+            </sp>
+            <sp>
+               <speaker>Amſt.</speaker>
+               <p>Hang him, out of choice; that's a ſham I'me confident: He's a timorous fel<g ref="char:EOLhyphen"/>low, and ſhrinks in his Horns, like a Snayl, when any danger approaches. Why can't he ſtand ſtiff and firm in all his former pur<g ref="char:EOLhyphen"/>poſes, and reſolutions? I thought the fel<g ref="char:EOLhyphen"/>low had had courage enough to dye a Martyr' for the Holy Cauſe once, but I ſee now he hates both <hi>Whig,</hi> and <hi>Trimmer;</hi> he's afraid, in my Conſcience of Juſtice Obſervator.</p>
+            </sp>
+            <sp>
+               <speaker>True.</speaker>
+               <p>Well, you may diſcourage his ge<g ref="char:EOLhyphen"/>nerous Proceedings as you pleaſe: But 'tis reſolv'd, and <hi>Harry</hi> will be faithful in ſpite of detraction and a little obloquy and re<g ref="char:EOLhyphen"/>proach. <hi>Harry</hi> won't ſwing upon a principle of generoſity, and dye with a lye in his Mouth to ſupport the Faction; he's an E<g ref="char:EOLhyphen"/>nemy to all Abſolutions, denys any power from a Confeſſor either from <hi>Scotland</hi> or St. <hi>Omers.</hi> No he'll magnifie God with a plain confeſſion of his Offences, and ſave his Neck and reputation into the bargain.</p>
+            </sp>
+            <sp>
+               <speaker>Amſt.</speaker>
+               <p>Lord! what will be the conſequence of all this? What ſhall we do if our friends (that have induſtriouſly drudg'd for us, now in thoſe critical times of Tryal and Perſecution) leave us and forſake us?</p>
+            </sp>
+            <sp>
+               <speaker>True.</speaker>
+               <p>Now to heighten your admiration, a friend of mine had it from <hi>Harry</hi>'s own mouth that he'll infallibly put out his Nar<g ref="char:EOLhyphen"/>rative very ſuddenly, and expoſe all the in<g ref="char:EOLhyphen"/>tricate windings of this moſt elaborate and diabolical Plot, and what myſterious me<g ref="char:EOLhyphen"/>thods they look to carry on the deſign, tho t'will prove a very amazing buſineſs to yee, yet be not too violent upon the man. And to oblige the World I'me told, he'll write now his Pacquet of Advice from <hi>Geneva,</hi> not from <hi>Rome,</hi> and his Courant ſhall (in<g ref="char:EOLhyphen"/>ſtead of Popiſh principles) be ſtufft with variety of ſentences out of the Diſſenters Sayings.</p>
+            </sp>
+            <sp>
+               <speaker>Amſt.</speaker>
+               <p>I'le tell yee next week, how our party reſents this ſo unexpected alteration; and ſo farwell.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>G. Croom,</hi> in <hi>Thames-ſtreet</hi> over againſt <hi>Baynard's Caſtle,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
